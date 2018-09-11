@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/stars"
+        android:title="Stars" />
+
+    <item
+        android:id="@+id/forks"
+        android:title="Forks"/>
+
+    <item
+        android:id="@+id/updated"
+        android:title="Updated"/>
+
+</menu>
