@@ -22,5 +22,7 @@ User deatils screen
 
 	• Click on user picture at either search screen or repo details screen to see more details about user 
 	• Visit user page in web for more.
+	
+Screenshots:
 
 <img src="https://user-images.githubusercontent.com/33250916/45399394-6dd8f300-b67a-11e8-8b7f-57e607754630.png" width="170"> <img src="https://user-images.githubusercontent.com/33250916/45399395-6dd8f300-b67a-11e8-971f-c5a451328705.png" width="170"> <img src="https://user-images.githubusercontent.com/33250916/45399396-6dd8f300-b67a-11e8-8ef4-b2ab214ea9b2.png" width="170"> <img src="https://user-images.githubusercontent.com/33250916/45399397-6e718980-b67a-11e8-8c04-d1fd5578cb8b.png" width="170"> <img src="https://user-images.githubusercontent.com/33250916/45399398-6e718980-b67a-11e8-9abc-9bdf7a1a91eb.png" width="170">
